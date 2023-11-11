@@ -22,5 +22,5 @@ For building the recommendation engine we need:
 2)	.csv_file containing recipes with columns recipe_id, name, ingredients
 
 ### How does our database look like?  
-Here is an Entity-Relationship Diagram:
+Here is an Entity-Relationship Diagram:  
 ![Diagrams/ER_Diagram.png](Diagrams/ER_Diagram.png)
