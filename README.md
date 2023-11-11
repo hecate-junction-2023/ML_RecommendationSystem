@@ -4,7 +4,7 @@
 After the registration the user has to enter his top 10 recipes which
 we give a 5-star ranking on.
 
-![Diagrams/matching.png](matching.png)
+![Diagrams/matching.png](Diagrams/matching.png)
 
 
 **How does the matching with other users work?**  
@@ -23,4 +23,4 @@ For building the recommendation engine we need:
 
 ### How does our database look like?  
 Here is an Entity-Relationship Diagram:
-![Diagrams/ER_Diagram.png](ER_Diagram.png)
+![Diagrams/ER_Diagram.png](Diagrams/ER_Diagram.png)
